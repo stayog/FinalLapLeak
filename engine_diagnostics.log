@@ -1,0 +1,15 @@
+[ENGINE DIAGNOSTIC SESSION]
+Temp=91.2C
+Oil=3.2bar
+ERS=88%
+Turbo=Active
+Brakes=56/44
+Status=OK
+---
+Temp=97.5C
+Oil=3.0bar
+ERS=91%
+Turbo=Active
+Brakes=57/43
+Status=WARNING_OVERHEAT
+DEBUG=CTF{SPEEDY_ENGINE}
